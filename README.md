@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samprati Singh
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me E-mail=sampratisingh2112@gmail.com
 
 <!---
